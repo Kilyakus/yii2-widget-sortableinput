@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "kilyakus/yii2-widget-sortable": "~1.2"
+        "kilyakus/yii2-widget-sortable": "*"
     },
     "autoload": {
         "psr-4": {
